@@ -27,7 +27,7 @@ This repository contains the code for the paper [Study on the Impacts of Hazardo
 Clone the repo, setup CARLA 0.9.14, and build the conda environment:
 
 ```Shell
-git clone https://github.com/venjuke/HSG.git
+https://github.com/Longfei0/HSG
 cd HSG
 chmod +x setup_carla.sh
 ./setup_carla.sh
