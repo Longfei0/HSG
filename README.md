@@ -68,7 +68,7 @@ python scripts/Hazard4_drunk\&drug.py --R_s 1.5 --R_i 0.5 --D_s 1.5 --D_i 6 --t_
 python scripts/Hazard5_distracted.py --t_loss [1,3] --t_interval 30 -t 1
 ```
 
-In addition,  `-t` decides the total duration of each simulation running by each script, as `--interval_factor`determind the sampling intervals for recording driving data (e.g., speed, following distance) in each simulation. 
+In addition,  `-t` decides the total duration of each simulation running by each script, as `--interval_factor ` will determine the sampling intervals for recording driving data (e.g., speed, following distance) in each simulation. 
 
 ## Evaluation
 
